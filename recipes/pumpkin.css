@@ -1,4 +1,10 @@
 * {
     background-color: #a99b9b;
     color: white;
+    text-align: center;
+    font-family: Nunito, Verdana, 'Times New Roman', sans-serif;
+}
+
+.img {
+    border-radius: 10px;
 }
