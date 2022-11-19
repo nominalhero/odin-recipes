@@ -1,0 +1,27 @@
+* {
+    background-color: #a99b9b;
+    color: white;
+    text-align: center;
+    font-family: Nunito, Verdana, 'Times New Roman', sans-serif;
+}
+
+body {
+
+}
+
+a {
+    text-decoration: none;
+    font-size: 15px;
+}
+
+a:hover {
+    font-style: italic;
+}
+
+a:visited {
+    font-color: #89a9b3;
+}
+
+#recipes-title {
+    font-size: 32px;
+}
